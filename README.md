@@ -1,5 +1,6 @@
 ### Hi there 👋
-I'm a CS student.
+I'm a CS student.  
+Stay Young & Simple. 🤓
 <!--
 **driftingdream/DriftingDream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
