@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 [![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)](https://github.com/topics/java) [![Java](https://img.shields.io/badge/-Swift-28253a?style=flat&logo=swift)](https://github.com/topics/swift) [![Tensorflow](https://img.shields.io/badge/-Tensorflow-28253a?style=flat&logo=tensorflow)](https://github.com/topics/tensorflow)  
 
 ### Status 📊
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=driftingdream&exclude_repo=driftingdream.github.io&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roaming-debug&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Github Status](https://github-readme-stats.vercel.app/api?username=driftingdream&show_icons=true)
+![Github Status](https://github-readme-stats.vercel.app/api?username=roaming-debug&show_icons=true)
 
 
